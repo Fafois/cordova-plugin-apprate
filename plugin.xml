@@ -34,7 +34,7 @@ under the License.
     </engines>
 
     <!--<dependency id="cordova-plugin-dialogs" url="https://github.com/Fafois/cordova-plugin-dialogs"/>-->
-    <dependency id="cordova-plugin-globalization" url="https://github.com/Fafois/cordova-plugin-globalization"/>
+    <!--<dependency id="cordova-plugin-globalization" url="https://github.com/Fafois/cordova-plugin-globalization"/>-->
 
     <js-module src="www/AppRate.js" name="AppRate">
         <clobbers target="AppRate"/>
